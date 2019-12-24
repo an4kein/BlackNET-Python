@@ -1,6 +1,3 @@
-# BlackNET-Python
-
-
 <p align="center">
  <img src="https://a.top4top.net/p_1104t3ole1.png" alt="" />
 </p>
