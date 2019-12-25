@@ -3,12 +3,12 @@
 </p>
 
 <p align="center">
- <a href="#"><img align="center" src="https://img.shields.io/github/repo-size/BlackHacker511/BlackNET" /></a>
- <a href="#"><img align="center" src="https://img.shields.io/github/issues-closed/BlackHacker511/BlackNET" /></a>
- <a href="#"><img align="center" src="https://img.shields.io/github/languages/top/BlackHacker511/BlackNET" /></a>
- <a href="#"><img align="center" src="https://img.shields.io/github/license/BlackHacker511/BlackNET" /></a>
- <a href="#"><img align="center" src="https://img.shields.io/github/v/release/BlackHacker511/BlackNET" /></a>
- <a href="#"><img align="center" src="https://img.shields.io/github/stars/BlackHacker511/BlackNET?style=social" /></a>
+ <a href="#"><img align="center" src="https://img.shields.io/github/repo-size/BlackHacker511/BlackNET-Python" /></a>
+ <a href="#"><img align="center" src="https://img.shields.io/github/issues-closed/BlackHacker511/BlackNET-Python" /></a>
+ <a href="#"><img align="center" src="https://img.shields.io/github/languages/top/BlackHacker511/BlackNET-Python" /></a>
+ <a href="#"><img align="center" src="https://img.shields.io/github/license/BlackHacker511/BlackNET-Python" /></a>
+ <a href="#"><img align="center" src="https://img.shields.io/github/v/release/BlackHacker511/BlackNET-Python" /></a>
+ <a href="#"><img align="center" src="https://img.shields.io/github/stars/BlackHacker511/BlackNET-Python?style=social" /></a>
 </p>
 
 # BlackNET
